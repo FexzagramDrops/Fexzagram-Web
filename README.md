@@ -1,2 +1,3 @@
-# Fexzagram-Web
-Fexzagram Web App
+# Welcome!
+Welcome to the "Fexzagram Web App" repository!
+The Fexzagram messenger code will be here.
